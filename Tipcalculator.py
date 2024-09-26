@@ -9,3 +9,5 @@ personal_pay_round = round(personal_pay, 2)
 final_amount = "{:.2f}".format(personal_pay_round)
 print(f"each person should pay ${final_amount}")
 # თუ ვერ ვამრგვალებთ ციფრს მითითებული ციფრების რაოდენობით, მაშინ არის ერთი ფუნქცია, რომელიც დაგვიმრგვალებს რიცხვს წინასწარ განსაზღვრულ ციფრების რაოდენობაზე რომელსაც ვუთითებთ წერტილის შემდგომ. personal_pay_round = "{:.2f}".format
+
+additional line 1
