@@ -11,3 +11,5 @@ print(f"each person should pay ${final_amount}")
 # თუ ვერ ვამრგვალებთ ციფრს მითითებული ციფრების რაოდენობით, მაშინ არის ერთი ფუნქცია, რომელიც დაგვიმრგვალებს რიცხვს წინასწარ განსაზღვრულ ციფრების რაოდენობაზე რომელსაც ვუთითებთ წერტილის შემდგომ. personal_pay_round = "{:.2f}".format
 
 additional line 1
+additional line 2 in branch1
+additional line 3 in main
